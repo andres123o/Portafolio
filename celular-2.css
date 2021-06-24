@@ -1,0 +1,26 @@
+.container-titulo-promocion {
+    width: 100%;
+    height: 254px;
+    background-color: #5e2129;
+}
+
+.container-titulo-promocion h1 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 35px;
+    text-align: center;
+    color: #FFF5F5;
+    padding-top: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+} 
+
+.container-titulo-promocion p {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 200;
+    font-size: 10px;
+    text-align: center;
+    padding: 65px;
+    color: #ffffff;
+    margin-top: 35px;
+}
